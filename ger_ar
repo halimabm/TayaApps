@@ -1,0 +1,55 @@
+{
+
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-6817063972150198/8437886582",
+	"GOOGLE_NATIVE":"ca-app-pub-6817063972150198/8868776206",
+	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111",	
+	
+
+	"TAP_APPID":"60f4d14308fe6c2d735d685b",
+	"ClientKey":"60fbc86c-6560-4d4e-b68f-b25ff722d795",
+	"INTER_INTERVAL":2,
+
+
+    "Click1":"false",
+    "Click2":"false",
+    "Click3":"false",
+    "Click4":"false",
+    "Click5":"false",
+    "Click6":"false",
+  
+	
+    "nat1":"false",
+    "nat2":"false",
+    "UPDATE":"false",
+    
+
+	
+	"moreappsgrid":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/6JQOLctUnnavkgc15lIGsyfRglMzYXrbkKG7P_2393KYIBn1O8BiJaZBkBRBQtUANA=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.owlecom.cha3r.bachara.med",
+						"name":"الترجمة الفورية بالكاميرا",
+						"type":"تثبيت"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/O0wBrdtR-9yJcyke19Yk5wD3G1I4JWjb2eEfjXZb0q0qmJyGgsjoYsHWN78aiYLd5WEp=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.tayaapp.englisharabic_cameratranslator",
+						"name":"مترجم عربي انجليزي بالكاميرا",
+						"type":"تثبيت"
+					},
+          {
+						"picture":"https://play-lh.googleusercontent.com/TR04w_wobuFleWLW7PeQkmxgsjEmq307pmKWcH0ZbxFdej9WdAhxEN4-cKJ4JsYZ6uNI=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.tayaapp.frencharabic_cameratranslator",
+						"name":"مترجم عربي فرنسي بالكاميرا",
+						"type":"تثبيت"
+					}
+			
+					
+		
+				
+	]
+        
+       
+
+
+}
