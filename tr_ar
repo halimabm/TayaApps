@@ -1,7 +1,7 @@
 {
 
-	"GOOGLE_INTERSTITIAL":"ca-app-pub-3940256099942544/1033173712",
-	"GOOGLE_NATIVE":"ca-app-pub-3940256099942544/2247696110",
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-6817063972150198/6055979830",
+	"GOOGLE_NATIVE":"ca-app-pub-6817063972150198/4335704056",
 	"GOOGLE_BANNER":"ca-app-pub-3940256099942544/6300978111",	
 	
 
@@ -37,12 +37,25 @@
 						"name":"مترجم عربي انجليزي بالكاميرا",
 						"type":"تثبيت"
 					},
-          {
+                                        {
 						"picture":"https://play-lh.googleusercontent.com/TR04w_wobuFleWLW7PeQkmxgsjEmq307pmKWcH0ZbxFdej9WdAhxEN4-cKJ4JsYZ6uNI=s180-rw",
 						"link":"https://play.google.com/store/apps/details?id=com.tayaapp.frencharabic_cameratranslator",
 						"name":"مترجم عربي فرنسي بالكاميرا",
 						"type":"تثبيت"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/EuVNLfASsJjJVrSUUNShYyDJku3t3FmpQFi6iI2jGByCmArgDvdxM_78n1vaDWFyEYOu=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.tayaapp.spanisharabic_cameratranslator",
+						"name":"مترجم عربي اسباني بالكاميرا",
+						"type":"تثبيت"
+					},
+		                        {
+						"picture":"https://play-lh.googleusercontent.com/yHxfb5g5niAJsTj5lp5TW7q1WAN-u5kiRZ-6GLANtQ30QiTB0dX7kN5Io44kiOm1UA=s180-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.tayaapp.germanarabic_cameratranslator",
+						"name":"مترجم عربي الماني بالكاميرا",
+						"type":"تثبيت"
 					}
+					
 			
 					
 		
